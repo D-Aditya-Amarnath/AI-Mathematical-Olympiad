@@ -40,7 +40,7 @@ QwenAgent leverages the **DeepSeek R1** model, a refined and optimized version o
   DeepSeek has been fine-tuned on mathematical reasoning tasks, making it well-suited for competitions like AI|MO. Its training includes examples that emphasize chain-of-thought reasoning, ensuring that it can generate detailed step-by-step solutions.
 
 - **Kaggle Integration:**  
-  In the Kaggle environment, the model is loaded from a dataset path (e.g., `/kaggle/input/deepseek-r1/transformers/deepseek-r1-distill-qwen-7b-awq-casperhansen/1`), ensuring seamless integration with competition infrastructure.
+  In the Kaggle environment, the model is loaded from a dataset path, ensuring seamless integration with competition infrastructure.
 
 ## Code Details
 
